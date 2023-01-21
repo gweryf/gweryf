@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Priyam Shrivastava</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Web dev and photo editing**
 
