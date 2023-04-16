@@ -12,6 +12,6 @@ Here are some of my skills:
 
 ### Contact
 
-You can reach me via [email](priyam2007sp@gmail.com)  or find me on [LinkedIn](https://www.linkedin.com/in/shrivastavpriyam/)
+You can reach me via email: priyam2007sp@gmail.com  or find me on [LinkedIn](https://www.linkedin.com/in/shrivastavpriyam/)
 
 Feel free to reach out if you want to discuss anything or collaborate on a project.
