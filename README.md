@@ -1,8 +1,8 @@
-Hello, I'm Priyam Shrivastava. I'm a Frontend Web Developer based in Mumbai, India. I'm interested in music, web design and photo editing.
+##### Hello, I'm Priyam Shrivastava. I'm a Frontend Web Developer based in Mumbai, India. I'm interested in music, web design and photo editing.
 
-### Skills
+#### Skills
 
-Here are some of my skills:
+##### Here are some of my skills:
 
 - ReactJs
 - TailwindCSS
@@ -10,8 +10,8 @@ Here are some of my skills:
 - HTML5
 - CSS3
 
-### Contact
+#### Contact
 
-You can reach me via email: priyam2007sp@gmail.com  or find me on [LinkedIn](https://www.linkedin.com/in/shrivastavpriyam/)
+##### You can reach me via email: priyam2007sp@gmail.com  or find me on [LinkedIn](https://www.linkedin.com/in/shrivastavpriyam/)
 
-Feel free to reach out if you want to discuss anything or collaborate on a project.
+##### Feel free to reach out if you want to discuss anything or collaborate on a project.
